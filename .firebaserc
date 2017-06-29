@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "staging": "gmap-923ec",
+    "default": "gmap-923ec"
+  }
+}
